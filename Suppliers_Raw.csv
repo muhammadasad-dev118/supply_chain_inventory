@@ -1,0 +1,36 @@
+﻿SupplierID,SupplierName,ContactPerson,City,Region,Email,SupplierCategory,PaymentTerms,AverageLeadTime,SupplierRating,SupplierStatus
+SUP-001,Al-Karam Textiles & Goods,Hamza Malik,Karachi,Sindh,hamza.malik@alkaramtextile.pk,Electronics,Net 45,4,4.4,Active
+SUP-002,PakTech Electronics Ltd,Maryam Malik,Peshawar,KPK,maryam.malik@paktechelectro.pk,Fashion,Net 15,7,4.5,Active
+SUP-003,  indus valley distributors ,Ahmed Malik,Faisalabad,Punjab,ahmed.malik@indusvalleydis.pk,Home & Kitchen,Net 30,12,3.7,Active
+SUP-004,Crescent Home Essentials,Imran Raza,Peshawar,KPK,imran.raza@crescenthomees.pk,Beauty,Net 60,9,3.6,Active
+SUP-005,Mehran FMCG Traders,Hassan Khan,Islamabad,ICT,hassan.khan@mehranfmcgtrad.pk,Grocery,Net 60,20,2.3,Under Review
+SUP-006,Ravi Sports & Gear,Sana Chaudhry,Lahore,Punjab,sana.chaudhry@ravisportsandg.pk,Sports,Net 15,6,4.3,Active
+SUP-007,Khyber Office Solutions,Amina Chaudhry,Quetta,Balochistan,amina.chaudhry@khyberofficeso.pk,Office Supplies,Net 45,3,4.7,Active
+SUP-008,Jinnah Consumer Corp,Imran Malik,Rawalpindi,Punjab,imran.malik@jinnahconsumer.pk,Electronics,Net 15,12,3.5,Active
+SUP-009,Orient Appliances Co,Hamza Javed,Gujranwala,Punjab,hamza.javed@orientapplianc.pk,Fashion,Advance 50%,9,3.8,Active
+SUP-010,Sialkot Pro Athletics,Ahmed Dar,sialkot,Punjab,ahmed.dar@sialkotproathl.pk,Home & Kitchen,Net 45,16,2.9,Active
+SUP-011,Bolan Packaging & Supply,Amina Malik,Rawalpindi,Punjab,amina.malik@bolanpackaging.pk,Beauty,Net 45,6,4.6,Active
+SUP-012,Pearl Beauty & Care,Zoya Sheikh,Gujranwala,Punjab,zoya.sheikh@pearlbeautyand.pk,Grocery,Net 45,4,4.7,Active
+SUP-013,Lahore Metro Wholesalers,Maryam Dar,Lahore,Punjab,maryam.dar@lahoremetrowho.pk,Sports,Advance 50%,13,3.4,Active
+SUP-014,Karachi Port Imports,Maryam Raza,Islamabad,ICT,maryam.raza@karachiportimp.pk,Office Supplies,Net 60,11,3.4,Active
+SUP-015,Capital Tech Distributors Pvt,Rizwan Dar,Peshawar,KPK,rizwan.dar@capitaltechdis.pk,Electronics,Net 30,25,2.4,Under Review
+SUP-016,Faisalabad Looms & Apparel,Faisal Khan,Faisalabad,Punjab,faisal.khan@faisalabadloom.pk,Fashion,Net 15,5,4.5,Active
+SUP-017,Zenith Digital Systems,Fatima Raza,Quetta,Balochistan,fatima.raza@zenithdigitals.pk,Home & Kitchen,Net 45,4,4.7,Active
+SUP-018,Noorani Grocery Supply,Omar Dar,Multan,Punjab,omar.dar@nooranigrocery.pk,Beauty,Net 30,10,3.3,Active
+SUP-019,Margalla Stationery House,Maryam Syed,Peshawar,KPK,maryam.syed@margallastatio.pk,Grocery,Net 45,13,3.7,Active
+SUP-020,Chenab Kitchenwares,Rizwan Javed,Rawalpindi,Punjab,rizwan.javed@chenabkitchenw.pk,Sports,Net 45,-4,3.1,Active
+SUP-021,Awan Logistics & Supply,Ali Syed,Multan,Punjab,ali.syed@awanlogisticsa.pk,Office Supplies,Net 15,3,4.8,Active
+SUP-022,Dawood Industrial Corp,Ali Dar,Islamabad,ICT,ali.dar@dawoodindustri.pk,Electronics,Net 60,7,4.2,Active
+SUP-023,Mughal Hardware & Home,Omar Javed,Multan,Punjab,Not Available,Fashion,Advance 50%,10,4.1,Active
+SUP-024,Saffron Cosmetics Ltd,Amina Khan,Lahore,Punjab,amina.khan@saffroncosmeti.pk,Home & Kitchen,Advance 50%,14,3.4,Active
+SUP-025,Frontier Foods & Beverages,Hamza Chaudhry,Lahore,Punjab,hamza.chaudhry@frontierfoodsa.pk,Beauty,Net 45,21,2.2,Under Review
+SUP-026,Apex Computing Pakistan,Ahmed Baig,Sialkot,Punjab,ahmed.baig@apexcomputingp.pk,Grocery,Advance 50%,4,4.6,Active
+SUP-027,Royal Fashion Garments,Fatima Dar,Sialkot,Punjab,fatima.dar@royalfashionga.pk,Sports,Advance 50%,7,4.3,Active
+SUP-028,Platinum Health & Beauty,Zoya Sheikh,Peshawar,KPK,zoya.sheikh@platinumhealth.pk,Office Supplies,Advance 50%,8,3.7,Active
+SUP-029,United Retail Sourcing,Hina Khan,Lahore,Punjab,hina.khan@unitedretailso.pk,Electronics,Net 45,0,3.9,Active
+SUP-030,Starlight Electronics,Sana Khan,Faisalabad,Punjab,sana.khan@starlightelect.pk,Fashion,Advance 50%,16,2.1,Under Review
+SUP-031,Greenfield Agro & Grocery,Hina Malik,Peshawar,KPK,hina.malik@greenfieldagro.pk,Home & Kitchen,Net 30,4,4.7,Active
+SUP-032,Metro Office Mart,Imran Sheikh,Sialkot,Punjab,imran.sheikh@metroofficemar.pk,Beauty,Advance 50%,7,4.5,Active
+SUP-033,Falcon Sports International,Sana Syed,Faisalabad,Punjab,sana.syed@falconsportsin.pk,Grocery,Net 45,11,4.1,Active
+SUP-034,SilkRoute Imports,Hamza Chaudhry,Multan,Punjab,hamza.chaudhry@silkrouteimpor.pk,Sports,Advance 50%,11,3.3,Active
+SUP-035,Prime Choice Distributors,Sana Malik,Gujranwala,Punjab,sana.malik@primechoicedis.pk,Office Supplies,Net 15,24,2.6,Active

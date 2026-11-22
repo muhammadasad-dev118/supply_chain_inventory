@@ -1,0 +1,7 @@
+﻿WarehouseID,WarehouseName,City,Region,WarehouseManager,StorageCapacity,WarehouseType,OperatingCost,WarehouseStatus
+WH-001,Karachi Central Hub,Karachi,Sindh,Tariq Mahmood,"250,000",Main Distribution Center,"PKR 1,850,000",Active
+WH-002,Lahore Regional Fulfillment,Lahore,Punjab,Ayesha Siddiqui,"180,000",Regional Fulfillment,"PKR 1,420,000",Active
+WH-003,Islamabad North Logistics,Islamabad,ICT,Kamran Akmal,"120,000",Regional Fulfillment,"PKR 980,000",Active
+WH-004,Faisalabad Industrial Depot,Faisalabad,Punjab,Usman Ghani,"150,000",Bulk Storage,"PKR 1,100,000",Active
+WH-005,Gujranwala Express Center,Gujranwala,Punjab,Bilal Ahmed,"90,000",Cross-Docking,"PKR 760,000",Active
+WH-006,Multan Southern Satellite,Multan,Punjab,Zainab Bibi,"75,000",Satellite Depot,"PKR 620,000",Active

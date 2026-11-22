@@ -1,0 +1,221 @@
+﻿ProductID,ProductName,Category,SubCategory,Brand,UnitCost,SellingPrice,ReorderLevel,SafetyStock,LeadTimeDays,SupplierID
+PRD-0001,Fast Charger 33W,Electronics,Mobile Accessories,ByteCore,850,1650,84,40,25,SUP-015
+PRD-0002,USB-C Braided Cable,Electronics,Mobile Accessories,TechNova,220,550,86,44,25,SUP-015
+PRD-0003,Wireless Earbuds Pro,Electronics,Mobile Accessories,VoltEdge,2400,4800,127,72,6,SUP-022
+PRD-0004,10000mAh Power Bank,Electronics,Mobile Accessories,VoltEdge,1900,3600,127,53,6,SUP-001
+PRD-0005,  temPered glass guard  ,Electronics,Mobile Accessories,SonicPulse,120,399,145,55,16,SUP-029
+PRD-0006,Car Phone Mount,Electronics,Mobile Accessories,DigiMax,450,999,67,31,9,SUP-022
+PRD-0007,Wireless Optical Mouse,Electronics,Computer Peripherals,TechNova,650,1350,93,36,6,SUP-001
+PRD-0008,Mechanical Gaming Keyboard,Electronics,Computer Peripherals,DigiMax,3800,7200,85,52,16,SUP-029
+PRD-0009,1080p HD Webcam,Electronics,Computer Peripherals,TechNova,2100,4200,88,37,6,SUP-022
+PRD-0010,Laptop Cooling Pad,Electronics,Computer Peripherals,TechNova,1100,2250,73,31,25,SUP-015
+PRD-0011,USB 3.0 Hub 4-Port,Electronics,Computer Peripherals,ByteCore,550,1199,86,29,27,SUP-015
+PRD-0012,Smart Wi-Fi LED Bulb,Electronics,Smart Home,SonicPulse,600,1299,84,39,5,SUP-001
+PRD-0013,Smart Plug Mini,electronics,Smart Home,TechNova,950,1899,115,50,14,SUP-008
+PRD-0014,Indoor Security Camera,Electronics,Smart Home,TechNova,3200,6400,109,45,11,SUP-008
+PRD-0015,Bluetooth Portable Speaker,Electronics,Smart Home,TechNova,1800,3500,52,27,24,SUP-015
+PRD-0016,Cotton Crew Neck T-Shirt,Fashion,Men's Apparel,SilkCraft,550,1290,61,35,9,SUP-002
+PRD-0017,Slim Fit Denim Jeans,Fashion,Men's Apparel,SilkCraft,1450,2990,57,25,15,SUP-030
+PRD-0018,Formal Oxford Shirt,Fashion,Men's Apparel,UrbanThread,1200,2590,52,23,18,SUP-030
+PRD-0019,Casual Chino Trousers,Fashion,Men's Apparel,ZestStyle,1150,2450,49,30,11,SUP-009
+PRD-0020,Winter Fleece Hoodie,Fashion,Men's Apparel,NoorWear,1600,3490,64,31,10,SUP-009
+PRD-0021,Embroidered Lawn Kurta,Fashion,Women's Apparel,VoguePak,1350,2890,103,60,15,SUP-030
+PRD-0022,Printed Chiffon Dupatta,Fashion,Women's Apparel,UrbanThread,650,1450,145,72,11,SUP-009
+PRD-0023,Cotton Viscose Trousers,Fashion,Women's Apparel,NoorWear,750,1690,117,72,15,SUP-030
+PRD-0024,Knit Cardigan Sweater,Fashion,Women's Apparel,NoorWear,1500,3290,122,78,15,SUP-030
+PRD-0025,Leather Classic Wallet,Fashion,Footwear & Accessories,NoorWear,600,1490,123,47,9,SUP-002
+PRD-0026,Running Sneakers,Fashion,Footwear & Accessories,NoorWear,1900,3990,79,44,15,SUP-030
+PRD-0027,Canvas Casual Shoes,Fashion,Footwear & Accessories,SilkCraft,1100,2390,100,54,6,SUP-016
+PRD-0028,Analog Wrist Watch,Fashion,Footwear & Accessories,  techNova ,1750,3790,78,32,6,SUP-016
+PRD-0029,Non-Stick Frying Pan 28cm,Home & Kitchen,Cookware,PureLiving,1250,2590,95,46,4,SUP-017
+PRD-0030,Stainless Steel Pressure Cooker,Home & Kitchen,Cookware,PureLiving,3400,6800,88,54,15,SUP-024
+PRD-0031,Granite Karahi with Lid,Home & Kitchen,Cookware,HomeChef,2100,4290,80,44,18,SUP-010
+PRD-0032,3-Piece Knife Set,Home & Kitchen,Cookware,HomeChef,550,1250,87,41,4,SUP-031
+PRD-0033,Airtight Food Container Set,Home & Kitchen,Storage & Organization,DuraKitchen,750,1590,87,53,17,SUP-010
+PRD-0034,Spice Rack Organizer,Home & Kitchen,Storage & Organization,DuraKitchen,650,1390,74,34,13,SUP-003
+PRD-0035,Foldable Laundry Basket,Home & Kitchen,Storage & Organization,PureLiving,500,1150,84,39,5,SUP-017
+PRD-0036,Electric Kettle 1.8L,Home & Kitchen,Small Appliances,ChefMate,1650,3290,66,37,13,SUP-024
+PRD-0037,2-Slice Pop-up Toaster,Home & Kitchen,Small Appliances,HomeChef,1800,3590,51,28,4,SUP-017
+PRD-0038,Hand Blender Mixer,Home & Kitchen,Small Appliances,HomeChef,1450,2950,47,23,12,SUP-003
+PRD-0039,Vitamin C Face Serum,Beauty,Skincare,Lumina,650,1490,46,25,10,SUP-018
+PRD-0040,Hydrating Hyaluronic Gel,Beauty,Skincare,VelvetTouch,580,1350,66,33,12,SUP-018
+PRD-0041,SPF 50+ Sunblock Lotion,Beauty,Skincare,GlowAura,480,1150,99,57,8,SUP-011
+PRD-0042,Charcoal Peel-Off Mask,Beauty,Skincare,GlowAura,320,790,128,48,7,SUP-011
+PRD-0043,Micellar Cleansing Water,Beauty,Skincare,VelvetTouch,420,950,143,68,21,SUP-025
+PRD-0044,Argan Oil Shampoo 400ml,Beauty,Haircare,DermaCare,520,1190,91,47,8,SUP-004
+PRD-0045,Keratin Repair Conditioner,Beauty,Haircare,Pure Botanics,540,1250,140,63,5,SUP-011
+PRD-0046,Herbal Hair Growth Oil,Beauty,MENS APPAREL ,Lumina,380,890,76,38,21,SUP-025
+PRD-0047,Matte Liquid Lipstick,Beauty,Makeup,GlowAura,350,850,68,36,11,SUP-018
+PRD-0048,Waterproof Mascara,Beauty,Makeup,VelvetTouch,420,990,91,46,10,SUP-018
+PRD-0049,Compact Face Powder,Beauty,Makeup,GlowAura,460,1090,114,49,8,SUP-032
+PRD-0050,Super Kernel Basmati Rice 5kg,Grocery,Pantry Staples,ZaiqaFoods,1450,1890,99,54,4,SUP-026
+PRD-0051,Extra Virgin Olive Oil 1L,Grocery,Pantry Staples,IndusGold,2100,2790,109,53,13,SUP-019
+PRD-0052,Organic Wildflower Honey 500g,Grocery,Pantry Staples,KissanHarvest,680,990,99,48,20,SUP-005
+PRD-0053,Whole Wheat Flour 10kg,Grocery,Pantry Staples,ZaiqaFoods,1150,1490,73,33,20,SUP-005
+PRD-0054,Red Lentils (Masoor) 1kg,Grocery,Pantry Staples,KissanHarvest,260,360,84,52,13,SUP-033
+PRD-0055,Green Tea Bags 50ct,Grocery,Beverages,ZaiqaFoods,320,480,60,26,11,SUP-033
+PRD-0056,Premium Black Tea 950g,Grocery,Beverages,NatureBasket,1180,1550,54,27,5,SUP-012
+PRD-0057,Roasted Coffee Beans 250g,Grocery,Beverages,KissanHarvest,850,1290,62,32,4,SUP-012
+PRD-0058,Roasted Almonds 250g,Grocery,Snacks,NatureBasket,580,850,49,23,12,SUP-019
+PRD-0059,Dark Chocolate Bar 100g,Grocery,Snacks,PureFarm,240,380,40,25,6,SUP-026
+PRD-0060,Oats & Honey Granola 400g,Grocery,Snacks,KissanHarvest,420,650,76,30,21,SUP-005
+PRD-0061,Non-Slip Yoga Mat 6mm,Sports,Fitness Equipment,ProStride,850,1790,145,78,12,SUP-013
+PRD-0062,Adjustable Dumbbell Set 10kg,Sports,Fitness Equipment,ActiveGear,2600,5200,145,67,8,SUP-027
+PRD-0063,Resistance Bands Set,Sports,Fitness Equipment,PulseSport,450,990,140,64,12,SUP-013
+PRD-0064,Skipping Jump Rope,Sports,Fitness Equipment,,220,550,127,42,14,SUP-013
+PRD-0065,Official Size 5 Football,Sports,Team Sports,TitanFit,950,1990,147,73,17,SUP-020
+PRD-0066,English Willow Cricket Bat,Sports,Team Sports,SialkotStar,3200,6500,72,38,8,SUP-027
+PRD-0067,Tape Ball Cricket Bat,Sports,Team Sports,ActiveGear,650,1390,83,46,7,SUP-006
+PRD-0068,Badminton Racket Pair,Sports,Team Sports,ActiveGear,800,1690,102,46,14,SUP-013
+PRD-0069,Insulated Steel Water Bottle 1L,Sports,Outdoor & Hydration,ActiveGear,650,1390,95,47,8,SUP-006
+PRD-0070,Gym Duffel Bag,Sports,Outdoor & Hydration,PulseSport,1100,2290,87,31,11,SUP-034
+PRD-0071,A4 Copier Paper 80gsm Ream,Office Supplies,Paper Products,WritePro,880,1250,93,44,24,SUP-035
+PRD-0072,Spiral Bound Notebook A5,Office Supplies,Paper Products,WritePro,160,350,82,34,10,SUP-014
+PRD-0073,Sticky Notes Cube 400 Sheets,Office Supplies,Paper Products,PaperLine,140,320,100,50,13,SUP-014
+PRD-0074,Gel Ink Pens Box of 12,Office Supplies,Writing Instruments,WritePro,280,590,82,39,5,SUP-021
+PRD-0075,Permanent Markers Pack of 6,Office Supplies,Writing Instruments,OfficeHub,240,490,66,25,5,SUP-021
+PRD-0076,Whiteboard Markers Set,Office Supplies,Writing Instruments,WorkSmart,220,450,77,36,25,SUP-035
+PRD-0077,Heavy Duty Stapler,Office Supplies,Desk Accessories,OfficeHub,380,790,66,22,4,SUP-021
+PRD-0078,Mesh Desk Organizer,Office Supplies,Desk Accessories,PaperLine,450,950,43,22,9,SUP-028
+PRD-0079,Scientific Calculator,Office Supplies,Desk Accessories,PaperLine,750,1590,38,16,10,SUP-014
+PRD-0080,Lever Arch File Folder,Office Supplies,Desk Accessories,WritePro,180,390,95,39,10,SUP-014
+PRD-0081,Fast Charger 33W - Pro,Electronics,Mobile Accessories,ByteCore,1100,2130,135,64,14,SUP-029
+PRD-0082,USB-C Braided Cable - Pro,Electronics,Mobile Accessories,SonicPulse,230,580,135,46,3,SUP-001
+PRD-0083,Wireless Earbuds Pro - Pro,Electronics,Mobile Accessories,SonicPulse,2540,5090,118,43,16,SUP-029
+PRD-0084,10000mAh Power Bank - Pro,Electronics,Mobile Accessories,TechNova,1840,3490,117,48,16,SUP-029
+PRD-0085,Tempered Glass Guard - Pro,Electronics,Mobile Accessories,ByteCore,140,470,147,68,15,SUP-029
+PRD-0086,Car Phone Mount - Pro,Electronics,Mobile Accessories,ByteCore,570,1260,116,51,14,SUP-008
+PRD-0087,Wireless Optical Mouse - Pro,Electronics,Computer Peripherals,SonicPulse,700,1440,85,39,14,SUP-008
+PRD-0088,Mechanical Gaming Keyboard - Pro,Electronics,Computer Peripherals,VoltEdge,4670,8860,90,45,27,SUP-015
+PRD-0089,1080p HD Webcam - Pro,Electronics,Computer Peripherals,TechNova,2080,4160,79,32,15,SUP-029
+PRD-0090,Laptop Cooling Pad - Pro,Electronics,Computer Peripherals,ByteCore,1120,2300,68,29,3,SUP-001
+PRD-0091,USB 3.0 Hub 4-Port - Pro,Electronics,Computer Peripherals,SonicPulse,530,1160,83,27,12,SUP-008
+PRD-0092,Smart Wi-Fi LED Bulb - Pro,Electronics,Smart Home,ByteCore,630,1360,71,38,6,SUP-001
+PRD-0093,Smart Plug Mini - Pro,Electronics,Smart Home,DigiMax,900,1800,84,53,27,SUP-015
+PRD-0094,Indoor Security Camera - Pro,Electronics,Smart Home,ByteCore,4100,8190,70,40,16,SUP-029
+PRD-0095,Bluetooth Portable Speaker - Pro,Electronics,Smart Home,VoltEdge,2380,4620,70,33,16,SUP-029
+PRD-0096,Cotton Crew Neck T-Shirt - Pro,Fashion,Men's Apparel,VoguePak,670,1570,62,35,9,SUP-009
+PRD-0097,Slim Fit Denim Jeans - Pro,Fashion,Men's Apparel,SilkCraft,1440,2960,62,32,6,SUP-002
+PRD-0098,Formal Oxford Shirt - Pro,Fashion,Men's Apparel,SilkCraft,1420,3060,48,29,10,SUP-023
+PRD-0099,Casual Chino Trousers - Pro,Fashion,Men's Apparel,VoguePak,1540,3280,42,27,4,SUP-016
+PRD-0100,Winter Fleece Hoodie - Pro,Fashion,Men's Apparel,SilkCraft,1420,3110,111,52,9,SUP-009
+PRD-0101,Embroidered Lawn Kurta - Pro,Fashion,Women's Apparel,ZestStyle,1270,2720,113,60,9,SUP-002
+PRD-0102,Printed Chiffon Dupatta - Pro,Fashion,Women's Apparel,ZestStyle,700,1570,145,57,11,SUP-009
+PRD-0103,Cotton Viscose Trousers - Pro,Fashion,Women's Apparel,SilkCraft,1000,2250,115,45,6,SUP-016
+PRD-0104,Knit Cardigan Sweater - Pro,Fashion,Women's Apparel,VoguePak,1290,2830,116,62,9,SUP-023
+PRD-0105,Leather Classic Wallet - Pro,Fashion,Footwear & Accessories,UrbanThread,710,1760,107,55,15,SUP-030
+PRD-0106,Running Sneakers - Pro,Fashion,Footwear & Accessories,VoguePak,2410,5070,70,32,7,SUP-002
+PRD-0107,Canvas Casual Shoes - Pro,Fashion,Footwear & Accessories,UrbanThread,1200,2610,85,39,10,SUP-023
+PRD-0108,Analog Wrist Watch - Pro,Fashion,Footwear & Accessories,NoorWear,2150,4660,89,49,6,SUP-002
+PRD-0109,Non-Stick Frying Pan 28cm - Pro,Home & Kitchen,Cookware,HomeChef,1660,3440,103,54,3,SUP-017
+PRD-0110,Stainless Steel Pressure Cooker - Pro,Home & Kitchen,Cookware,PureLiving,3880,7750,97,55,6,SUP-031
+PRD-0111,Granite Karahi with Lid - Pro,Home & Kitchen,Cookware,DuraKitchen,1870,3820,96,47,15,SUP-010
+PRD-0112,3-Piece Knife Set - Pro,Home & Kitchen,Cookware,ChefMate,700,1600,82,50,15,SUP-010
+PRD-0113,Airtight Food Container Set - Pro,Home & Kitchen,Storage & Organization,PureLiving,760,1620,89,27,17,SUP-010
+PRD-0114,Spice Rack Organizer - Pro,Home & Kitchen,Storage & Organization,HomeChef,760,1630,112,51,18,SUP-010
+PRD-0115,Foldable Laundry Basket - Pro,Home & Kitchen,Storage & Organization,CasaBella,450,1040,57,24,18,SUP-010
+PRD-0116,Electric Kettle 1.8L - Pro,Home & Kitchen,Small Appliances,ChefMate,1550,3090,84,39,5,SUP-031
+PRD-0117,2-Slice Pop-up Toaster - Pro,Home & Kitchen,Small Appliances,PureLiving,2360,4700,76,33,16,SUP-024
+PRD-0118,Hand Blender Mixer - Pro,Home & Kitchen,Small Appliances,CasaBella,1670,3390,40,17,4,SUP-031
+PRD-0119,Vitamin C Face Serum - Pro,Beauty,Skincare,Pure Botanics,840,1920,52,,8,SUP-011
+PRD-0120,Hydrating Hyaluronic Gel - Pro,Beauty,Skincare,VelvetTouch,500,1160,83,40,6,SUP-011
+PRD-0121,SPF 50+ Sunblock Lotion - Pro,Beauty,Skincare,VelvetTouch,490,1180,135,57,8,SUP-032
+PRD-0122,Charcoal Peel-Off Mask - Pro,Beauty,Skincare,VelvetTouch,380,950,125,73,5,SUP-011
+PRD-0123,Micellar Cleansing Water - Pro,Beauty,Skincare,DermaCare,370,850,163,75,8,SUP-011
+PRD-0124,Argan Oil Shampoo 400ml - Pro,Beauty,Haircare,DermaCare,500,1150,158,68,11,SUP-004
+PRD-0125,Keratin Repair Conditioner - Pro,Beauty,Haircare,VelvetTouch,460,1080,149,65,9,SUP-004
+PRD-0126,Herbal Hair Growth Oil - Pro,Beauty,Haircare,Lumina,370,860,105,40,22,SUP-025
+PRD-0127,Matte Liquid Lipstick - Pro,Beauty,Makeup,DermaCare,390,950,95,36,8,SUP-032
+PRD-0128,Waterproof Mascara - Pro,Beauty,Makeup,VelvetTouch,420,980,70,28,7,SUP-032
+PRD-0129,Compact Face Powder - Pro,Beauty,Makeup,Lumina,460,1100,74,31,6,SUP-011
+PRD-0130,Super Kernel Basmati Rice 5kg - Pro,Grocery,Pantry Staples,NatureBasket,1770,2310,70,28,21,SUP-005
+PRD-0131,Extra Virgin Olive Oil 1L - Pro,Grocery,Pantry Staples,NatureBasket,2100,2790,64,34,11,SUP-033
+PRD-0132,Organic Wildflower Honey 500g - Pro,Grocery,Pantry Staples,IndusGold,820,1190,59,26,5,SUP-026
+PRD-0133,Whole Wheat Flour 10kg - Pro,Grocery,Pantry Staples,IndusGold,1300,1680,58,28,15,SUP-019
+PRD-0134,Red Lentils (Masoor) 1kg - Pro,Grocery,Pantry Staples,ZaiqaFoods,300,410,90,39,13,SUP-033
+PRD-0135,Green Tea Bags 50ct - Pro,Grocery,Beverages,KissanHarvest,300,450,58,35,14,SUP-019
+PRD-0136,Premium Black Tea 950g - Pro,Grocery,Beverages,ZaiqaFoods,1490,1950,60,22,6,SUP-026
+PRD-0137,Roasted Coffee Beans 250g - Pro,Grocery,Beverages,KissanHarvest,990,1500,69,24,11,SUP-033
+PRD-0138,Roasted Almonds 250g - Pro,Grocery,Snacks,NatureBasket,660,960,40,22,19,SUP-005
+PRD-0139,Dark Chocolate Bar 100g - Pro,Grocery,Snacks,ZaiqaFoods,270,430,56,27,4,SUP-012
+PRD-0140,Oats & Honey Granola 400g - Pro,Grocery,Snacks,NatureBasket,550,840,67,34,13,SUP-033
+PRD-0141,Non-Slip Yoga Mat 6mm - Pro,Sports,Fitness Equipment,ProStride,980,2060,133,80,7,SUP-027
+PRD-0142,Adjustable Dumbbell Set 10kg - Pro,Sports,Fitness Equipment,ProStride,2550,5100,106,55,13,SUP-013
+PRD-0143,Resistance Bands Set - Pro,Sports,Fitness Equipment,SialkotStar,510,1120,134,66,17,SUP-020
+PRD-0144,Skipping Jump Rope - Pro,Sports,Fitness Equipment,TitanFit,260,650,96,42,14,SUP-013
+PRD-0145,Official Size 5 Football - Pro,Sports,Team Sports,ActiveGear,940,1970,127,44,8,SUP-006
+PRD-0146,English Willow Cricket Bat - Pro,Sports,Team Sports,ActiveGear,3100,6300,75,38,11,SUP-034
+PRD-0147,Tape Ball Cricket Bat - Pro,Sports,Team Sports,SialkotStar,730,1560,90,51,19,SUP-020
+PRD-0148,Badminton Racket Pair - Pro,Sports,Team Sports,SialkotStar,710,1500,92,44,7,SUP-006
+PRD-0149,Insulated Steel Water Bottle 1L - Pro,Sports,Outdoor & Hydration,TitanFit,700,1490,102,47,8,SUP-027
+PRD-0150,Gym Duffel Bag - Pro,Sports,Outdoor & Hydration,PulseSport,1450,3020,74,39,9,SUP-027
+PRD-0151,A4 Copier Paper 80gsm Ream - Pro,Office Supplies,Paper Products,WritePro,1010,1440,90,44,25,SUP-035
+PRD-0152,Spiral Bound Notebook A5 - Pro,Office Supplies,Paper Products,PaperLine,140,300,96,49,2,SUP-007
+PRD-0153,Sticky Notes Cube 400 Sheets - Pro,Office Supplies,Paper Products,PaperLine,160,360,99,41,5,SUP-021
+PRD-0154,Gel Ink Pens Box of 12 - Pro,Office Supplies,Writing Instruments,PaperLine,370,770,106,45,5,SUP-007
+PRD-0155,Permanent Markers Pack of 6 - Pro,Office Supplies,Writing Instruments,WritePro,320,650,63,33,4,SUP-007
+PRD-0156,Whiteboard Markers Set - Pro,Office Supplies,Writing Instruments,WorkSmart,220,450,63,30,8,SUP-028
+PRD-0157,Heavy Duty Stapler - Pro,Office Supplies,Desk Accessories,ExecDesk,460,950,58,37,26,SUP-035
+PRD-0158,Mesh Desk Organizer - Pro,Office Supplies,Desk Accessories,ExecDesk,490,1030,43,25,9,SUP-028
+PRD-0159,Scientific Calculator - Pro,Office Supplies,Desk Accessories,WritePro,1010,2130,57,29,10,SUP-014
+PRD-0160,Lever Arch File Folder - Plus,Office Supplies,Desk Accessories,OfficeHub,160,340,105,44,9,SUP-028
+PRD-0161,Fast Charger 33W - Plus,Electronics,Mobile Accessories,TechNova,990,1910,132,57,25,SUP-015
+PRD-0162,USB-C Braided Cable - Plus,Electronics,Mobile Accessories,VoltEdge,200,510,118,71,6,SUP-001
+PRD-0163,Wireless Earbuds Pro - Plus,Electronics,Mobile Accessories,ByteCore,2060,4130,109,50,4,SUP-001
+PRD-0164,10000mAh Power Bank - Plus,Electronics,Mobile Accessories,ByteCore,2150,4070,99,45,9,SUP-022
+PRD-0165,Tempered Glass Guard - Plus,Electronics,Mobile Accessories,TechNova,160,540,128,47,14,SUP-008
+PRD-0166,Car Phone Mount - Plus,Electronics,Mobile Accessories,DigiMax,570,1270,88,41,5,SUP-001
+PRD-0167,Wireless Optical Mouse - Plus,Electronics,Computer Peripherals,DigiMax,690,1430,91,32,6,SUP-001
+PRD-0168,Mechanical Gaming Keyboard - Plus,Electronics,Computer Peripherals,DigiMax,4290,8140,116,54,4,SUP-001
+PRD-0169,1080p HD Webcam - Plus,Electronics,Computer Peripherals,SonicPulse,2560,5120,89,33,24,SUP-015
+PRD-0170,Laptop Cooling Pad - Plus,Electronics,Computer Peripherals,ByteCore,1120,2300,81,51,13,SUP-008
+PRD-0171,USB 3.0 Hub 4-Port - Plus,Electronics,Computer Peripherals,VoltEdge,540,1190,91,52,9,SUP-022
+PRD-0172,Smart Wi-Fi LED Bulb - Plus,Electronics,Smart Home,DigiMax,640,1390,100,35,5,SUP-001
+PRD-0173,Smart Plug Mini - Plus,Electronics,Smart Home,DigiMax,1170,2340,104,54,27,SUP-015
+PRD-0174,Indoor Security Camera - Plus,Electronics,Smart Home,SonicPulse,4100,8190,88,32,14,SUP-008
+PRD-0175,Bluetooth Portable Speaker - Plus,Electronics,Smart Home,DigiMax,1570,3040,73,32,9,SUP-022
+PRD-0176,Cotton Crew Neck T-Shirt - Plus,Fashion,Men's Apparel,NoorWear,690,1610,45,21,7,SUP-016
+PRD-0177,Slim Fit Denim Jeans - Plus,Fashion,Men's Apparel,VoguePak,1600,3290,57,23,17,SUP-030
+PRD-0178,Formal Oxford Shirt - Plus,Fashion,Men's Apparel,SilkCraft,1080,2330,47,19,8,SUP-009
+PRD-0179,Casual Chino Trousers - Plus,Fashion,Men's Apparel,NoorWear,1480,3160,53,30,15,SUP-030
+PRD-0180,Winter Fleece Hoodie - Plus,Fashion,Men's Apparel,SilkCraft,1630,3560,103,52,6,SUP-002
+PRD-0181,Embroidered Lawn Kurta - Plus,Fashion,Women's Apparel,VoguePak,1730,3700,140,60,7,SUP-016
+PRD-0182,Printed Chiffon Dupatta - Plus,Fashion,Women's Apparel,SilkCraft,790,1750,123,79,15,SUP-030
+PRD-0183,Cotton Viscose Trousers - Plus,Fashion,Women's Apparel,ZestStyle,730,1640,112,45,5,SUP-016
+PRD-0184,Knit Cardigan Sweater - Plus,Fashion,Women's Apparel,UrbanThread,2010,4410,134,50,7,SUP-016
+PRD-0185,Leather Classic Wallet - Plus,Fashion,Footwear & Accessories,UrbanThread,600,1490,150,60,15,SUP-030
+PRD-0186,Running Sneakers - Plus,Fashion,Footwear & Accessories,ZestStyle,1670,3510,77,38,6,SUP-016
+PRD-0187,Canvas Casual Shoes - Plus,Fashion,Footwear & Accessories,SilkCraft,1070,2320,71,30,7,SUP-002
+PRD-0188,Analog Wrist Watch - Plus,Fashion,Footwear & Accessories,SilkCraft,1560,3370,79,40,7,SUP-002
+PRD-0189,Non-Stick Frying Pan 28cm - Plus,Home & Kitchen,Cookware,CasaBella,1210,2510,63,33,6,SUP-017
+PRD-0190,Stainless Steel Pressure Cooker - Plus,Home & Kitchen,Cookware,PureLiving,4420,8840,110,46,5,SUP-017
+PRD-0191,Granite Karahi with Lid - Plus,Home & Kitchen,Cookware,PureLiving,1950,3990,92,43,5,SUP-031
+PRD-0192,3-Piece Knife Set - Plus,Home & Kitchen,Cookware,PureLiving,640,1460,88,39,5,SUP-031
+PRD-0193,Airtight Food Container Set - Plus,Home & Kitchen,Storage & Organization,PureLiving,710,1510,73,28,6,SUP-031
+PRD-0194,Spice Rack Organizer - Plus,Home & Kitchen,Storage & Organization,CasaBella,680,1450,95,47,13,SUP-003
+PRD-0195,Foldable Laundry Basket - Plus,Home & Kitchen,Storage & Organization,PureLiving,430,990,58,20,13,SUP-003
+PRD-0196,Electric Kettle 1.8L - Plus,Home & Kitchen,Small Appliances,HomeChef,2110,4210,73,29,6,SUP-017
+PRD-0197,2-Slice Pop-up Toaster - Plus,Home & Kitchen,Small Appliances,ChefMate,2250,4490,67,27,5,SUP-031
+PRD-0198,Hand Blender Mixer - Plus,Home & Kitchen,Small Appliances,CasaBella,1380,2800,34,18,14,SUP-024
+PRD-0199,Vitamin C Face Serum - Plus,Beauty,Skincare,DermaCare,650,1490,45,26,20,SUP-025
+PRD-0200,Hydrating Hyaluronic Gel - Plus,Beauty,Skincare,VelvetTouch,520,1220,104,48,22,SUP-025
+PRD-0201,SPF 50+ Sunblock Lotion - Plus,Beauty,Skincare,Pure Botanics,450,1080,145,73,11,SUP-018
+PRD-0202,Charcoal Peel-Off Mask - Plus,Beauty,Skincare,Pure Botanics,420,1030,128,70,7,SUP-011
+PRD-0203,Micellar Cleansing Water - Plus,Beauty,Skincare,VelvetTouch,510,1160,113,69,20,SUP-025
+PRD-0204,Argan Oil Shampoo 400ml - Plus,Beauty,Haircare,Pure Botanics,480,1090,138,75,23,SUP-025
+PRD-0205,Keratin Repair Conditioner - Plus,Beauty,Haircare,DermaCare,490,1120,130,56,5,SUP-011
+PRD-0206,Herbal Hair Growth Oil - Plus,Beauty,Haircare,VelvetTouch,350,810,97,43,7,SUP-011
+PRD-0207,Matte Liquid Lipstick - Plus,Beauty,Makeup,VelvetTouch,440,1070,90,46,20,SUP-025
+PRD-0208,Waterproof Mascara - Plus,Beauty,Makeup,Lumina,460,1080,98,54,11,SUP-018
+PRD-0209,Compact Face Powder - Plus,Beauty,Makeup,DermaCare,540,1280,101,45,8,SUP-032
+PRD-0210,Super Kernel Basmati Rice 5kg - Plus,Grocery,Pantry Staples,KissanHarvest,1320,1720,95,34,10,SUP-033
+PRD-0211,Extra Virgin Olive Oil 1L - Plus,Grocery,Pantry Staples,IndusGold,1910,2540,96,37,4,SUP-026
+PRD-0212,Organic Wildflower Honey 500g - Plus,Grocery,Pantry Staples,PureFarm,710,1030,82,43,6,SUP-026
+PRD-0213,Whole Wheat Flour 10kg - Plus,Grocery,Pantry Staples,KissanHarvest,1480,1920,100,44,15,SUP-019
+PRD-0214,Red Lentils (Masoor) 1kg - Plus,Grocery,Pantry Staples,NatureBasket,340,480,100,47,19,SUP-005
+PRD-0215,Green Tea Bags 50ct - Plus,Grocery,Beverages,ZaiqaFoods,310,460,54,31,4,SUP-026
+PRD-0216,Premium Black Tea 950g - Plus,Grocery,Beverages,NatureBasket,1580,2080,53,21,12,SUP-033
+PRD-0217,Roasted Coffee Beans 250g - Plus,Grocery,Beverages,KissanHarvest,840,1280,63,22,13,SUP-033
+PRD-0218,Roasted Almonds 250g - Plus,Grocery,Snacks,PureFarm,560,820,41,16,12,SUP-019
+PRD-0219,Dark Chocolate Bar 100g - Plus,Grocery,Snacks,IndusGold,230,370,38,17,4,SUP-026
+PRD-0220,Oats & Honey Granola 400g - Plus,Grocery,Snacks,IndusGold,480,740,88,49,5,SUP-012
